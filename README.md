@@ -13,3 +13,8 @@ The dataset used in this project was obtained from the [UCI Machine Learning Rep
 Abalone are type of shellfish that are common along the coasts of most continents across the world. By cutting through the shell of an abalone, its age can be determined by counting the number of rings using a microscope. It's burdensome process so we try to do this using  a number of explanatory factors, like height or weight.  
   
 ### Multi-layer Perceptron
+Multi-layer Perceptron is a popular type of artifical neural network. A MLP consists of, at least, three layers of nodes: an input layer, a hidden layer and an output layer. Hidden layers could be much more. Input layer receive the signal, and output layer makes a decision or prediction about the input.  
+
+This may be represented by the following diagram:
+
+![mlp](../master/res/mlp.png)
