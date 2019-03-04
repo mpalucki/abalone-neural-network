@@ -4,7 +4,6 @@ Predicting abalone's life expectancy using neural network architecture.
 Features:  
 * Multi-layer Perceptron
 * Abalone dataset
-* Estimate abalone life
   
 The dataset used in this project was obtained from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/abalone).
 
@@ -23,7 +22,7 @@ This may be represented by the following diagram:
 
 ![results](../master/res/results.png)  
 
-As you can see, implemented artifical neural network predicts abalone's rings with MAE(Mean Absolute Error) equal to 1.470, which is a good approximation actual number of rings.  
+As you can see, implemented artifical neural network predicts abalone's rings with MAE(Mean Absolute Error) equal to 1.470. It is a good approximation of actual number abalone's rings.  
   
 Architecture of our MLP:  
 * two hidden layers [20,5]
@@ -33,12 +32,12 @@ Architecture of our MLP:
 
 ## Prerequisites
 ### Tools
-* jupyter notebook 
+* jupyter notebook  
 After you have installed the jupyter notebook on your computer, you are ready to run the notebook server.You can start the notebook server from the command line by running:  
 ```
 jupyter notebook abalone-network.ipynb
 ```
-### Lbraries
+### Libraries
 You need to have installed and configured following libraries to run the project:  
 * numpy
 * scikit-learn
@@ -52,6 +51,6 @@ pip install numpy
 ```
 ## Author
 Mateusz Pałucki
-## More helpful information
+## More helpful informations
 [ericstrong.org](https://ericstrong.org/predicting-abalone-rings-part-1/)
 
