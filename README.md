@@ -1,6 +1,5 @@
 # abalone neural network
-  
-Predicting abalone's life expectancy using neural network architecture.  
+  Predicting abalone's life expectancy using neural network architecture.
 Features:  
 * Multi-layer Perceptron
 * Abalone dataset
